@@ -2,7 +2,7 @@
 
 Simple Python3 code to display in a 3D-space a 3*3 Rubik's Cube
 
-![Expected 3D plot](Capture.png)
+![Expected 3D plot](Capture.PNG)
 
 ## Getting Started
 
