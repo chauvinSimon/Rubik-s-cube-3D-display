@@ -7,7 +7,9 @@ Simple Python3 code to display in a 3D-space a 3*3 Rubik's Cube
 ## Getting Started
 
 ### Decide which representation you want to use for encoding the color:
-Two string representations are possible based on the ![unfolded view](UnfoldedCube.jpg) :
+Two string representations are possible based on the following picture:
+![unfolded view](UnfoldedCube.jpg)
+
 - if using the notation where the unfolded cube is read block by block (U + R + F + D + L + B), run it directly
 - if using the notation where the unfolded cube is read line by line, comment/uncomment the related line in [display3D.py](display3D.py)
 
